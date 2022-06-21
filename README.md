@@ -2,15 +2,10 @@
    ### I am highly motivated and energetic Software Engineering student who believes in learning by solving challenging tasks, through online platforms and working among     expert developers. Eager to perform valuable work using computer programming skills.
    
   ### My Skills
-   ### Frontend 
       HTML5 | ReactJs | React Native 
-   ### Backend
       Node JS | ExpressJs | Mongoose | Sequelise
-   ### DataBases
       MongoDB | MySQL | Oracle
-   ### Design
       Bootstrap | CSS3 | AntD | Material UI
-   ### Other Skills 
       Javascript | Git | Github | Java
 
 <!--
