@@ -1,16 +1,16 @@
 ## Hi there 👋, It's me Sadia Shah
    ### I am highly motivated and energetic Software Engineering student who believes in learning by solving challenging tasks, through online platforms and working among     expert developers. Eager to perform valuable work using computer programming skills.
    
-  My Skills
-   ###Frontend 
+  ### My Skills
+   ### Frontend 
       HTML5 | ReactJs | React Native 
-   ###Backend
+   ### Backend
       Node JS | ExpressJs | Mongoose | Sequelise
-   ###DataBases
+   ### DataBases
       MongoDB | MySQL | Oracle
-   ###Design
+   ### Design
       Bootstrap | CSS3 | AntD | Material UI
-   ###Other Skills 
+   ### Other Skills 
       Javascript | Git | Github | Java
 
 <!--
