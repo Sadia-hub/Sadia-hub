@@ -2,7 +2,7 @@
    ### I am highly motivated and energetic Software Engineering student who believes in learning by solving challenging tasks, through online platforms and working among     expert developers. Eager to perform valuable work using computer programming skills.
    
   ### My Skills
-      HTML5 | ReactJs | React Native | Node JS | ExpressJs | Mongoose | Sequelise | MongoDB | MySQL | Oracle | Bootstrap | CSS3 | AntD | Material UI | Javascript | Git |   Github | Java
+      HTML5 | ReactJs | React Native | Node JS | ExpressJs | Mongoose | Sequelise | MongoDB | MySQL | Oracle | Bootstrap | CSS3 | AntD | Material UI | Javascript | Git | Github | Java
 
 <!--
 **Sadia-hub/Sadia-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
