@@ -1,6 +1,7 @@
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadia-hub&count_private=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadia-hub&count_private=true&theme=dark)
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=sadia-hub&count_private=true&theme=dark" alt="Your GitHub Stats" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadia-hub&count_private=true&theme=dark" alt="Top Langs" height="200px" />
+</div>
 
 ## Hi there 👋, It's me Sadia Shah
 <!--   ### I am highly motivated and energetic Software Engineering student who believes in learning by solving challenging tasks, through online platforms and working among expert developers. Eager to perform valuable work using computer programming skills.
