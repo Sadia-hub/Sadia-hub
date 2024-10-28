@@ -11,11 +11,11 @@
 
 | Category           | Technologies                                                   |
 |--------------------|-----------------------------------------------------------------|
-| **Frontend**       | HTML5, CSS3, Bootstrap, Ant Design (AntD), Material UI, JavaScript, React.js, React Native |
-| **Backend**        | Node.js, Express.js                                            |
-| **Database**       | MongoDB, Mongoose, MySQL, Sequelize, Oracle                    |
-| **Version Control**| Git, GitHub                                                    |
-| **Other Technologies** | Java                                                       |
+| **Frontend**       | React.js, React Native |
+| **Backend**        | Node.js, Express.js, Nest.js, Springboot                       |
+| **Database**       | Mongo, MySQL, Oracle, Postgress, Redis                   |
+| **Version Control**| Git, GitHub, Bitbucket                                   |
+| **Devops** | Docker, Aws                                                      |
 
 
 
