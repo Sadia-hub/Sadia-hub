@@ -18,6 +18,7 @@
 | **Version Control**| Git, GitHub, Bitbucket                                   |
 | **Devops** | Docker, Aws                                                      |
 | **Architecture** | Microservices, Microfrontends, Monolithic                  |
+| **Languages** | Javascript, Typescripts, Java, Python, C++              |
 
 
 
