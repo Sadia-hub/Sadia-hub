@@ -6,8 +6,24 @@
 ## Hi there 👋, It's me Sadia Shah
 <!--   ### I am highly motivated and energetic Software Engineering student who believes in learning by solving challenging tasks, through online platforms and working among expert developers. Eager to perform valuable work using computer programming skills.
 -->
-  ### My Skills
-      HTML5 | ReactJs | React Native | Node JS | ExpressJs | Mongoose | Sequelise | MongoDB | MySQL | Oracle | Bootstrap | CSS3 | AntD | Material UI | Javascript | Git | Github | Java
+## Skills
+
+### Frontend
+- **HTML5** | **CSS3** | **Bootstrap** | **Ant Design (AntD)** | **Material UI**
+- **JavaScript** | **React.js** | **React Native**
+
+### Backend
+- **Node.js** | **Express.js**
+
+### Database
+- **MongoDB** | **Mongoose** | **MySQL** | **Sequelize** | **Oracle**
+
+### Version Control
+- **Git** | **GitHub**
+
+### Other Technologies
+- **Java**
+
 
 - 🔭 I’m currently working on **Web Development**
 - 🌱 I’m currently learning **Data Science**
