@@ -1,6 +1,6 @@
-# My GitHub Stats
-
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadia-hub&count_private=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadia-hub)
 
 ## Hi there 👋, It's me Sadia Shah
 <!--   ### I am highly motivated and energetic Software Engineering student who believes in learning by solving challenging tasks, through online platforms and working among expert developers. Eager to perform valuable work using computer programming skills.
