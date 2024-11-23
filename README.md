@@ -15,7 +15,7 @@
 | **Frontend**       | React.js, Next.js, React Native |
 | **Backend**        | Node.js, Express.js, Nest.js, Springboot, Bullmq                       |
 | **Database**       | Mongo, MySQL, Oracle, Postgress, Redis, Firebase         |
-| **Version Control**| Git, GitHub, Bitbucket                                   |
+| **Version Control**| Git, GitHub, Gitlab, Bitbucket                                   |
 | **Devops** | Docker, Aws                                                      |
 | **Architecture** | Microservices, Microfrontends, Monolithic                  |
 | **Languages** | Javascript, Typescript, Java, C#, Python, C++              |
