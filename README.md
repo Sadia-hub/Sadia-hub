@@ -16,7 +16,7 @@
 | **Backend**        | Node.js, Express.js, Nest.js, Springboot, Bullmq, RabbitMq                       |
 | **Database**       | Mongo, MySQL, Oracle, Postgress, Redis, Firebase         |
 | **Version Control**| Git, GitHub, Gitlab, Bitbucket                                   |
-| **Devops** | cicd, Docker, Docker Compose, Aws                                                      |
+| **Devops** | cicd, Docker, Docker Compose, Aws (EC2, S3 Bucket)                                                      |
 | **Architecture** | Event Driven, Microservices, Microfrontends, Monolithic                  |
 | **Languages** | Javascript, Typescript, Java, C#, Python, C++              |
 
