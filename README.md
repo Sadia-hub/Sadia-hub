@@ -12,7 +12,7 @@
 
 | Category           | Technologies                                                   |
 |--------------------|-----------------------------------------------------------------|
-| **Frontend**       | React.js, Next.js, React Native |
+| **Frontend**       | HTML5, CSS3, React.js, Next.js, React Native |
 | **Backend**        | Node.js, Express.js, Nest.js, Springboot, Bullmq, RabbitMq                       |
 | **Database**       | Mongo, MySQL, Oracle, Postgress, Redis, Firebase         |
 | **Version Control**| Git, GitHub, Gitlab, Bitbucket                                   |
