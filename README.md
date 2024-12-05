@@ -18,6 +18,7 @@
 | **Version Control**| Git, GitHub, Gitlab, Bitbucket                                   |
 | **Devops** | cicd, Docker, Docker Compose, Aws (EC2, S3 Bucket)                                                      |
 | **Architecture** | Event Driven, Microservices, Microfrontends, Monolithic                  |
+| **Testing** | Jest, JMeter                 |
 | **Languages** | Javascript, Typescript, Java, C#, Python, C++              |
 
 
